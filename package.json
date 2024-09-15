@@ -34,5 +34,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+    "semi": false,
+    "tabWidth": 2,
+    "printWidth": 80,
+    "singleQuote": false,
+    "jsxSingleQuote": false,
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "trailingComma": "all",
+    "arrowParens": "avoid",
+    "singleAttributePerLine": true
 }
+
